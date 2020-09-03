@@ -2,11 +2,11 @@
     "Items": [
         {
             "standName": "Mastografia",
-            "imageUrl": "mg.png",
+            "imageUrl": "mg.jpg",
             "pdfUrl": "Dive Into Design Patterns.pdf",
             "videoUrl": "DarkSouls.mp4",
             "images": [
-                "poster_1.png",
+                "poster_1.jpg",
                 "poster_2.jpg",
                 "poster_3.jpg",
                 "poster_4.jpg"
