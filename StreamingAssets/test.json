@@ -8,25 +8,24 @@
             "images": [
                 "poster_1.png",
                 "poster_2.png",
-                "poster_3.png",
-                "poster_4.png"
+                "poster_3.png"
             ],
             "audio": {
-                "instanceID": 54012
+                "instanceID": 18284
             }
         },
         {
             "standName": "Ecografica",
-            "imageUrl": "ec.jpg",
+            "imageUrl": "ec.png",
             "pdfUrl": "eco.pdf",
             "videoUrl": "hola",
             "images": [
-                "poster_1.jpg",
-                "poster_2.jpg",
-                "poster_3.jpg"
+                "poster_1.png",
+                "poster_2.png",
+                "poster_3.png"
             ],
             "audio": {
-                "instanceID": 61786
+                "instanceID": 14856
             }
         }
     ]
