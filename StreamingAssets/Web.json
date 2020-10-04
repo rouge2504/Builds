@@ -1,5 +1,6 @@
 {
     "checkUrl": "https://api.mastologia.org.mx/auth/me",
     "tokenKey": "auth._token.local",
-	"enable": true
+	"enable": true,
+	"testMobileOnWebGLUI": true
 }
