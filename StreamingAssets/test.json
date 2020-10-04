@@ -29,6 +29,100 @@
             "audio": {
                 "instanceID": 14858
             }
+        },
+		{
+            "standName": "MamasSanas",
+            "imageUrl": "ec.png",
+            "pdfUrl": "eco.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=5xLsVThFuP0&feature=emb_logo&ab_channel=MamasSanas",
+            "images": [
+                "AUTOE_MAMA.jpg",
+                "AUTOE_TESTICULAR.jpg",
+                "poster_stand_mamas.jpg"
+            ],
+            "audioUrl": "AMM_01.mp3",
+            "audio": {
+                "instanceID": 14858
+            }
+        },
+		{
+            "standName": "OCV",
+            "imageUrl": "ec.png",
+            "pdfUrl": "Folleto destino Monterrey reuniones.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=g9s3whw0qPQ&ab_channel=Asociaci%C3%B3nMexicanadeMastolog%C3%ADaA.C.",
+            "images": [
+                "cuadro_1_Infraestructura-y-servicios-de-primer-nivel---opcion-3.jpg",
+                "cuadro_2_Increíbles-atractivos-turísticos---opcion-2.jpg",
+                "Poster-stand-virtual-Monterrey.jpg"
+            ],
+            "audioUrl": "audio_bienvenida.mp3",
+            "audio": {
+                "instanceID": 14858
+            }
+        },
+		{
+            "standName": "FLAM",
+            "imageUrl": "ec.png",
+			"urlSite": "https://flam2021guayaquil.com/",
+            "pdfUrl": "FLAM2021_Folleto.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=UBsUjGn_LsQ&ab_channel=Asociaci%C3%B3nMexicanadeMastolog%C3%ADaA.C.",
+            "images": [
+                "Poster_2_1080-X-1920-(2).jpg",
+                "Poster_2_1080-X-1920-(2).jpg",
+                "Poster_3_Cuadrado_Banner-1280-x-1280.jpg"
+            ],
+            "audioUrl": "audio_bienvenida.mp3",
+            "audio": {
+                "instanceID": 14858
+            }
+        },
+		{
+            "standName": "BD",
+            "imageUrl": "ec.png",
+			"urlSite": "https://flam2021guayaquil.com/",
+            "pdfUrl": "BD_Folleto.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=5xLsVThFuP0&feature=emb_logo",
+            "images": [
+                "BD_Cartel.jpg",
+                "BD_Img1.jpg",
+                "BD_Img2.jpg"
+            ],
+            "audioUrl": "audio_bienvenida.mp3",
+            "audio": {
+                "instanceID": 14858
+            }
+        },
+		{
+            "standName": "AMM",
+            "imageUrl": "ec.png",
+			"urlSite": "https://flam2021guayaquil.com/",
+            "pdfUrl": "BD_Folleto.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=SD0rrXBu7sk&ab_channel=Asociaci%C3%B3nMexicanadeMastolog%C3%ADaA.C.",
+            "images": [
+                "POSTER_1_Stand_Afiliate.jpg",
+                "POSTER_2_Stand_Sesiones.jpg",
+                "poster_stand_amm-01.jpg"
+            ],
+            "audioUrl": "audio_bienvenida.mp3",
+            "audio": {
+                "instanceID": 14858
+            }
+        },
+		{
+            "standName": "Roche",
+            "imageUrl": "ec.png",
+			"urlSite": "https://flam2021guayaquil.com/",
+            "pdfUrl": "Folleto_CaMa.pdf",
+            "videoUrl": "https://www.youtube.com/watch?v=SD0rrXBu7sk&ab_channel=Asociaci%C3%B3nMexicanadeMastolog%C3%ADaA.C.",
+            "images": [
+                "POSTER_1_Stand_Afiliate.jpg",
+                "POSTER_2_Stand_Sesiones.jpg",
+                "poster_stand_amm-01.jpg"
+            ],
+            "audioUrl": "audio_bienvenida.mp3",
+            "audio": {
+                "instanceID": 14858
+            }
         }
     ]
 }
