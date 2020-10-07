@@ -1,8 +1,6 @@
 {
     "checkUrl": "https://api.mastologia.org.mx/auth/me",
-    "tokenKey": "vuex",
-	"enable": false,
+    "tokenKey": "auth._token.local",
+	"enable": true,
 	"testMobileOnWebGLUI": false
-	
-	
 }
