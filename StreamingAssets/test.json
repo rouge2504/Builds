@@ -34,6 +34,7 @@
             "standName": "MamasSanas",
             "imageUrl": "ec.png",
             "pdfUrl": "eco.pdf",
+            "tipoChat": "mamassanas",
             "videoUrl": "https://www.youtube.com/watch?v=5xLsVThFuP0&feature=emb_logo&ab_channel=MamasSanas",
             "images": [
                 "AUTOE_MAMA.jpg",
@@ -49,6 +50,7 @@
             "standName": "OCV",
             "imageUrl": "ec.png",
             "pdfUrl": "Folleto destino Monterrey reuniones.pdf",
+			"tipoChat": "ocv",
             "videoUrl": "https://youtu.be/g9s3whw0qPQ",
             "images": [
                 "cuadro_1_Infraestructura-y-servicios-de-primer-nivel---opcion-3.jpg",
@@ -65,6 +67,7 @@
             "imageUrl": "ec.png",
 			"urlSite": "https://flam2021guayaquil.com/",
             "pdfUrl": "FLAM2021_Folleto.pdf",
+			"tipoChat": "flam",
             "videoUrl": "https://youtu.be/UBsUjGn_LsQ",
             "images": [
                 "Poster_2_1080-X-1920-(2).jpg",
@@ -80,6 +83,7 @@
             "standName": "BD",
             "imageUrl": "ec.png",
 			"urlSite": "https://flam2021guayaquil.com/",
+			"tipoChat": "bd",
             "pdfUrl": "BD_Folleto.pdf",
             "videoUrl": "https://www.youtube.com/watch?v=5xLsVThFuP0&feature=emb_logo",
             "images": [
@@ -97,6 +101,7 @@
             "imageUrl": "ec.png",
 			"urlSite": "https://flam2021guayaquil.com/",
             "pdfUrl": "BD_Folleto.pdf",
+			"tipoChat": "mastologia",
             "videoUrl": "https://www.youtube.com/watch?v=SD0rrXBu7sk&ab_channel=Asociaci%C3%B3nMexicanadeMastolog%C3%ADaA.C.",
             "images": [
                 "POSTER_1_Stand_Afiliate.jpg",
@@ -113,6 +118,7 @@
             "imageUrl": "ec.png",
 			"urlSite": "https://flam2021guayaquil.com/",
             "pdfUrl": "Folleto_CaMa.pdf",
+			"tipoChat": "roche",
             "videoUrl": "https://www.youtube.com/watch?v=SD0rrXBu7sk&ab_channel=Asociaci%C3%B3nMexicanadeMastolog%C3%ADaA.C.",
             "images": [
                 "Poster_Calidad_de_Vida-02.jpg",

@@ -1,5 +1,6 @@
 {
     "checkUrl": "https://api.mastologia.org.mx/auth/me",
+	"chatUrl" : "https://congreso.mastologia.org.mx/chat/",
     "tokenKey": "vuex",
 	"enable": false,
 	"testMobileOnWebGLUI": false
