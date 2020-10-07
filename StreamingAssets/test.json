@@ -86,6 +86,7 @@
 			"tipoChat": "bd",
             "pdfUrl": "BD_Folleto.pdf",
             "videoUrl": "https://www.youtube.com/watch?v=5xLsVThFuP0&feature=emb_logo",
+			"mail_to": "ximena.Rivera@bd.com",
             "images": [
                 "BD_Cartel.jpg",
                 "BD_Img1.jpg",
@@ -99,8 +100,8 @@
 		{
             "standName": "AMM",
             "imageUrl": "ec.png",
-			"urlSite": "https://flam2021guayaquil.com/",
-            "pdfUrl": "BD_Folleto.pdf",
+			"urlSite": "https://unity.mastologia.org.mx/StreamingAssets/Stands/AMM/Mas-2020-num1-OP.pdf",
+            "pdfUrl": "Mas-2019-num2-nun3-OP.pdf",
 			"tipoChat": "mastologia",
             "videoUrl": "https://www.youtube.com/watch?v=SD0rrXBu7sk&ab_channel=Asociaci%C3%B3nMexicanadeMastolog%C3%ADaA.C.",
             "images": [
@@ -119,6 +120,7 @@
 			"urlSite": "https://flam2021guayaquil.com/",
             "pdfUrl": "Folleto_CaMa.pdf",
 			"tipoChat": "roche",
+			"mail_to": "angelica.avila@roche.com",
             "videoUrl": "https://www.youtube.com/watch?v=SD0rrXBu7sk&ab_channel=Asociaci%C3%B3nMexicanadeMastolog%C3%ADaA.C.",
             "images": [
                 "Poster_Calidad_de_Vida-02.jpg",
