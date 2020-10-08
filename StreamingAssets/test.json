@@ -92,7 +92,7 @@
                 "BD_Img1.jpg",
                 "BD_Img2.jpg"
             ],
-            "audioUrl": "audio_bienvenida.mp3",
+            "audioUrl": "audio_bienvenida.mp3",	
             "audio": {
                 "instanceID": 14858
             }
@@ -130,6 +130,24 @@
                 "Poster_Mailing_Eficacia-2-02.jpg",
                 "Roche_Anuncio_revista-02.jpg",
                 "Poster_Perfil_de_seguridad-02.jpg"
+            ],
+            "audioUrl": "audio_bienvenida.mp3",
+            "audio": {
+                "instanceID": 14858
+            }
+        },
+		{
+            "standName": "BAYLOR",
+            "imageUrl": "ec.png",
+			"urlSite": "https://flam2021guayaquil.com/",
+            "pdfUrl": "Folleto_CaMa.pdf",
+			"tipoChat": "roche",
+			"mail_to": "angelica.avila@roche.com",
+            "videoUrl": "https://www.youtube.com/watch?v=SD0rrXBu7sk&ab_channel=Asociaci%C3%B3nMexicanadeMastolog%C3%ADaA.C.",
+            "images": [
+                "Poster_Calidad_de_Vida-02.jpg",
+                "Poster_Beneficio_1404_Aphinity-02.jpg",
+                "Poster_Cleopatra_90x602-02.jpg"
             ],
             "audioUrl": "audio_bienvenida.mp3",
             "audio": {
