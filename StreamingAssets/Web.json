@@ -4,7 +4,7 @@
     "tokenKey": "vuex",
 	"enable": false,
 	"testMobileOnWebGLUI": false,
-	"enableVideo": true
-	"enableVideoServer": false;
+	"enableVideo": true,
+	"enableVideoServer": false
 	
 }
