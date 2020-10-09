@@ -121,6 +121,7 @@
             "pdfUrl": "Folleto_CaMa.pdf",
 			"tipoChat": "roche",
 			"mail_to": "angelica.avila@roche.com",
+			"cart": "tarjeta.jpg",
             "videoUrl": "https://www.youtube.com/watch?v=SD0rrXBu7sk&ab_channel=Asociaci%C3%B3nMexicanadeMastolog%C3%ADaA.C.",
             "images": [
                 "Poster_Calidad_de_Vida-02.jpg",
@@ -131,24 +132,27 @@
                 "Roche_Anuncio_revista-02.jpg",
                 "Poster_Perfil_de_seguridad-02.jpg"
             ],
+			"videosUrl": [
+                "https://youtu.be/53ySVxScpog",
+                "https://youtu.be/RB013ame9ko"
+            ],
             "audioUrl": "audio_bienvenida.mp3",
             "audio": {
                 "instanceID": 14858
             }
         },
 		{
-            "standName": "BAYLOR",
+            "standName": "Baylor",
             "imageUrl": "ec.png",
 			"urlSite": "https://flam2021guayaquil.com/",
-            "pdfUrl": "Folleto_CaMa.pdf",
+            "pdfUrl": "Hospital Profile 2020.pdf",
 			"tipoChat": "roche",
-			"mail_to": "angelica.avila@roche.com",
-            "videoUrl": "https://www.youtube.com/watch?v=SD0rrXBu7sk&ab_channel=Asociaci%C3%B3nMexicanadeMastolog%C3%ADaA.C.",
+            "videoUrl": "https://youtu.be/AIsJP7_0d5c",
             "images": [
-                "Poster_Calidad_de_Vida-02.jpg",
-                "Poster_Beneficio_1404_Aphinity-02.jpg",
-                "Poster_Cleopatra_90x602-02.jpg"
+                "DLDCCC-advert_poster.jpg",
+                "Portada_revista_PDF.jpg"
             ],
+
             "audioUrl": "audio_bienvenida.mp3",
             "audio": {
                 "instanceID": 14858
