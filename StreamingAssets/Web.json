@@ -3,7 +3,8 @@
 	"chatUrl" : "https://congreso.mastologia.org.mx/chat/",
     "tokenKey": "vuex",
 	"enable": false,
-	"testMobileOnWebGLUI": false
+	"testMobileOnWebGLUI": false,
+	"enableVideo": true
 	
 	
 }
