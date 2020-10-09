@@ -36,6 +36,7 @@
             "pdfUrl": "eco.pdf",
             "tipoChat": "mamassanas",
             "videoUrl": "https://www.youtube.com/watch?v=5xLsVThFuP0&feature=emb_logo&ab_channel=MamasSanas",
+            "videoUrlServer": "AUTO EXPLORACION MAMARIA_480p.mp4",
             "images": [
                 "AUTOE_MAMA.jpg",
                 "AUTOE_TESTICULAR.jpg",
@@ -52,6 +53,7 @@
             "pdfUrl": "Folleto destino Monterrey reuniones.pdf",
 			"tipoChat": "ocv",
             "videoUrl": "https://youtu.be/g9s3whw0qPQ",
+            "videoUrlServer": "VIDEO DESTINO MTY.mp4",
             "images": [
                 "cuadro_1_Infraestructura-y-servicios-de-primer-nivel---opcion-3.jpg",
                 "cuadro_2_Increíbles-atractivos-turísticos---opcion-2.jpg",
@@ -69,6 +71,7 @@
             "pdfUrl": "FLAM2021_Folleto.pdf",
 			"tipoChat": "flam",
             "videoUrl": "https://youtu.be/UBsUjGn_LsQ",
+            "videoUrlServer": "Congreso FLAM 2021.mp4",
             "images": [
                 "Poster_2_1080-X-1920-(2).jpg",
                 "Poster_2_1080-X-1920-(2).jpg",
@@ -104,6 +107,7 @@
             "pdfUrl": "Mas-2019-num2-nun3-OP.pdf",
 			"tipoChat": "mastologia",
             "videoUrl": "https://www.youtube.com/watch?v=SD0rrXBu7sk&ab_channel=Asociaci%C3%B3nMexicanadeMastolog%C3%ADaA.C.",
+            "videoUrlServer": "XVII CONGRESO NACIONAL DE MASTOLOGIA-STAND AMM 2020_480p.mp4",
             "images": [
                 "POSTER_1_Stand_Afiliate.jpg",
                 "POSTER_2_Stand_Sesiones.jpg",
@@ -135,6 +139,10 @@
 			"videosUrl": [
                 "https://youtu.be/53ySVxScpog",
                 "https://youtu.be/RB013ame9ko"
+            ],			
+			"videosUrlServer": [
+                "STORYBOARD KADCYLA.mp4",
+                "HCPs APHINITY.mp4"
             ],
             "audioUrl": "audio_bienvenida.mp3",
             "audio": {
@@ -148,6 +156,7 @@
             "pdfUrl": "Hospital Profile 2020.pdf",
 			"tipoChat": "baylor",
             "videoUrl": "https://youtu.be/AIsJP7_0d5c",
+            "videoUrlServer": "Baylor St Luke Cancer Program.mp4",
             "images": [
                 "DLDCCC-advert_poster.jpg",
                 "Portada_revista_PDF.jpg"
